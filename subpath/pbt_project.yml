@@ -1,0 +1,42 @@
+name: maryrose.cummerata
+description: zero administration
+version: 0.0.1
+author: czrqxuvs.jrr2eixo@lvjvu8qg.com
+language: sql
+buildSystem: ''
+buildSystemDetails: null
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-02-05 10:17:14'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline:
+  name: sqlPipeline
+  description: null
+  author: czrqxuvs.jrr2eixo@lvjvu8qg.com
+  createdAt: '2025-02-05 10:17:14'
+dependencies: []
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
